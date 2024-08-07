@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153279612?e=1721865600&v=beta&t=9xlYizdD8SAwot3fpCrvtvK8h9Xz98XXTLz-feZqYfE)
+(https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153279612?e=1721865600&v=beta&t=9xlYizdD8SAwot3fpCrvtvK8h9Xz98XXTLz-feZqYfE)
 <h1 align="center">Hi 👋, I'm Onur Mergen</h1>
 <h3 align="center">A passionate Jr. Software Developer from Turkey</h3>
 
