@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Deep learning, Unity**
 
-- 💬 Ask me about **algorithms in Java and Python**
+- 💬 Ask me about **algorithms in Java and Php**
 
-- 📫 How to reach me **onurdoymaz992@hotmail.com**
+- 📫 How to reach me **onurmergen@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
